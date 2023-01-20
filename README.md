@@ -1,2 +1,2 @@
-# plootz_quadruped_platform
+# PLUTZ (Aptly named after my dog, definitely needs a better name)
 A 3D printable Quadruped Platform designed designed to be easy to build using easily available components.
